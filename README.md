@@ -13,10 +13,12 @@ Social buttons
 who we are 
 Us/People
 Contact Page - 
-Dropdown Menu: 	Say Hello
-			Request a Material (Potential Customers) 
-Vendor Application 	
+	Dropdown Menu: 	
+	Say Hello
+	Request a Material (Potential Customers) 
+	Vendor Application 	
 	Work with us! 
+	
 PHASE TWO
 Portal  Website B2B (mobile-friendly/responsive) 
 User: Small business owner requesting materials & being able to purchased with the materials are sourced 
