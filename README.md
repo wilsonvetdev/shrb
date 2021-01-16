@@ -5,19 +5,19 @@ Site & Technical Requirements
 PHASE ONE: Website & Market Research 
 
 Homepage 
-Company story (Mission)
-Video for Selling Story
-	Interested in Learning More (CTA to Contact Page)
-Email Sign up for Newsletter
-Social buttons
-who we are 
-Us/People
-Contact Page - 
+|Company story (Mission)
+|Video for Selling Story
+	-Interested in Learning More (CTA to Contact Page)
+|Email Sign up for Newsletter
+|Social buttons
+|who we are 
+|Us/People
+|Contact Page - 
 	Dropdown Menu: 	
-	Say Hello
-	Request a Material (Potential Customers) 
-	Vendor Application 	
-	Work with us! 
+	Say Hello;
+	Request a Material (Potential Customers); 
+	Vendor Application; 	
+	Work with us!; 
 	
 PHASE TWO
 Portal  Website B2B (mobile-friendly/responsive) 
