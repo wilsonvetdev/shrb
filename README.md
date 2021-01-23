@@ -16,12 +16,13 @@ Video for Selling Story
 Email Sign up for Newsletter
 Social buttons
 who we are 
-Us/People
+Us/People 
 Contact Page - 
-Dropdown Menu: 	Say Hello
-			Request a Material (Potential Customers) 
-Vendor Application 	
-	Work with us! 
+	Dropdown Menu: 	Say Hello
+		Request a Material (Potential Customers) 
+		Vendor Application 	
+		Work with us! 
+
 PHASE TWO
 Portal  Website B2B (mobile-friendly/responsive) 
 User: Small business owner requesting materials & being able to purchased with the materials are sourced 
@@ -41,3 +42,14 @@ PHASE FOUR??
 
 PHASE FIVE Specializing in Alternative Investments for Sustainable Businesses 
 Sustainable Businesses that would like to scale their business but do not always have the ability to scale (and are thus not attractive for equity based financing) and is seeking alternative methods (i.e. non equity), crowd-sourced, revenue-based, etc. 
+
+Color Palette
+#104310 - Green
+#6D9472 - Olive Green
+#FFFFFF - White
+#FEF7EE - Off White
+#DAA95F - Tan
+
+Supplemental 
+#C04E5F - Blush
+#8BD4BE - Mint
