@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src="./no_background.png" id="welcome_logo" alt="SHRB"/>
           <a>
-            SHRB
+            Coming Soon!
           </a>
             <p>
               Sustainable Hub for Responsible Business:  Specializing in Alternative Investments for Sustainable Businesses
