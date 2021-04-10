@@ -40,4 +40,5 @@
 #welcome_logo {
   width: 30%;
   height: 30%;
+  object-fit: contain; 
 }
